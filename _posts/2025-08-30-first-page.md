@@ -3,5 +3,5 @@
 
 ## Hello world! This is a test post.
 
-This figure is a test picture. ![image](/assets/fig/logo.png)
+This figure is a test picture. ![image](/assets/logo.png)
 
