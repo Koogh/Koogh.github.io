@@ -1,3 +1,8 @@
+---
+layout: single
+title: "1st post"
+---
+
 # I write down Blog
 - *Bold*
 
